@@ -1,0 +1,33 @@
+name: release
+
+on:
+  release:
+    types: [published]
+    
+jobs:
+
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Set up Go
+      uses: actions/setup-go@v4
+      with:
+        go-version: '1.20'
+
+    - name: install packwiz
+      run: go install github.com/packwiz/packwiz@latest
+
+    - name: build pack
+      run: packwiz modrinth export
+
+    - name: Upload release asset
+      uses: actions/upload-release-asset@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        upload_url: ${{ github.event.release.upload_url }}
+        asset_path: ./garden-${{ github.event.release.tag_name }}.mrpack
+        asset_name: garden-${{ github.event.release.tag_name }}.mrpack
+        asset_content_type: application/octet-stream
