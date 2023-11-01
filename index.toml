@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-wheelie.pw.toml"
-hash = "a57091f8b6ecf13d9cd342afed94a7fad266f72aceafe17e6e63b4dbcbaf1934"
+hash = "bcecfcc6d755b1c14e21835f08ea8f5645f2048983dcc44bf1b4dd97c4610de3"
 metafile = true
 
 [[files]]
@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-hud-enhanced.pw.toml"
-hash = "e943a77d3fa7bff69d5fbc9aa024a8c80e5a604307a16476a0db1b3c0c0dd127"
+hash = "e544cd126c90f99e692f086e844aff367ecdb41cf283c0ebad4c4017eb1be7ba"
 metafile = true
 
 [[files]]

@@ -7,6 +7,10 @@ url = "https://cdn.modrinth.com/data/u5Ic2U1u/versions/EzeYeJRf/mousewheelie-1.1
 hash-format = "sha1"
 hash = "9cfc22ba2cd2ff4dbd9334e006d55583e6d5b621"
 
+[option]
+optional = true
+default = false
+
 [update]
 [update.modrinth]
 mod-id = "u5Ic2U1u"

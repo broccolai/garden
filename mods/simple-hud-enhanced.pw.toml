@@ -7,6 +7,10 @@ url = "https://cdn.modrinth.com/data/PE656UHx/versions/vESQRNuQ/simple-hud-enhan
 hash-format = "sha1"
 hash = "6350586665f60ea5064944f19fabeb17f92f7ddc"
 
+[option]
+optional = true
+default = false
+
 [update]
 [update.modrinth]
 mod-id = "PE656UHx"
