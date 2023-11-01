@@ -1,12 +1,12 @@
 name = "garden"
 author = "broccolai"
-version = "1.0.0"
+version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d7c3ed31c1c1b5594a0140ca2ca626e0758a38b731973619e29441f9bd0dcf8d"
+hash = "b0058130e3e6c05897c67d71007758d1059255c85fb85f7766408ab03d7f72af"
 
 [versions]
 fabric = "0.14.24"
