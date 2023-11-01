@@ -84,3 +84,7 @@ metafile = true
 file = "mods/title-fix-mod.pw.toml"
 hash = "c2dd276471f49fc43f279db2cacbe7d527d4073a7320b55e6508a9c4003fb38d"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "6093c4f76f18abb203c3e3d9f4e8ac67ebadc6b822cf7d61ede7b22392c78605"
