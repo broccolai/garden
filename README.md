@@ -14,3 +14,7 @@ drag the mrpack into prism
 # post install 
 
 optional mods can be enabled by clicking on the pack, going to modsh and checking the box to the left
+
+# missing from 1.20.6
+mouse wheelie
+title fix mod
