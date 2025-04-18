@@ -1,13 +1,13 @@
 name = "garden"
 author = "broccolai"
-version = "4.0.0"
+version = "5.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "5a1c43d38e9cb5a13f96dbd129f912ba13e0d674c308baab728978f8429974f8"
+hash = "993b4a286fe7e77f7683305625b0de8870a56a2b52dd8a9411e25f598732dd88"
 
 [versions]
-fabric = "0.16.5"
-minecraft = "1.21.1"
+fabric = "0.16.13"
+minecraft = "1.21.4"

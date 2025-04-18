@@ -14,37 +14,37 @@ hash = "159de407964a39584946e371a0952a8ec9be6e0de223ac3cb9cec928a9d7b168"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "9460d497d821c589a08bbec71b094ce4fd8540324ee9a3f95aecc5ea1cb6399f"
+hash = "417e4f42790407e6fb4dfcb03cd4abcdf3aa00f4dcef3f3a2edec1a3e1a9a3ef"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "7289a04452c422ed4b3d1d35b30b6a70fb397c0d53de00fb2d42b188cd6c7530"
+hash = "a63069aac3fc618562c8f4fa4f76e0bd3625a90f53d1dc3ff4974862d54dde20"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "c61479621974d76c5389a9701395b8058ac20bc63b09f2011bbdfba580e43029"
+hash = "687d9f69912b725a879bf3b4da8fb3f63eead93e4ce3e719c2be67d56b70c0b5"
 metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "7167d442d5704438f8491ba69efa1c92d5719370bf63eea2c94ef4e12fbf6265"
+hash = "1ef554f7a8d5f7ed4bc21316e034eeef3430dc306012c0a706bd4c3e4ac253aa"
 metafile = true
 
 [[files]]
 file = "mods/forcecloseworldloadingscreen.pw.toml"
-hash = "aab6a22f8b8ba0e40be7005c8ad9e3b891be8e5e7bdb2d97cc6c67747359976f"
+hash = "d80049f4f9438f229920965bfbd1354a23165747a1f84e9b39ab8333bce527c5"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "cf0adf784f1a181299bc48c9b9048fba5980755365586592e73ffe46ae4915e5"
+hash = "5b6cadef65019131a6e7d362b81bb25871330db67ef6c6b1d552e1fbd975e3be"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "57c085385093d5abb767c0ac9582cad704d7a1ed53833792fd299ea0a4a7b70f"
+hash = "e03fc0b0c151c5c072ac399d27b5c4268a093c41be73f3b1578d050bb49211f3"
 metafile = true
 
 [[files]]
@@ -54,17 +54,17 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "d0bdf44d0cee8f2a2727b7000ed20bbb5ce00865d2d7c43ffb0abe71191db280"
+hash = "df9d69dc784ef61e99064407952d34c294f62fe1155b5260f825bd9a82e2f3a2"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "a3753e729d72f1f51022380efd645a205d50b23f69e435385efbe1849e8cda7f"
+hash = "88c6edc1712f4f0cd915cd723b9e0296924d454b3855a719d2962103b2b92bea"
 metafile = true
 
 [[files]]
-file = "mods/moonrise.pw.toml"
-hash = "63b0cd8d14f1a6478fa1827809898840e87463affc607d077658c6e2197349a1"
+file = "mods/moonrise-opt.pw.toml"
+hash = "f4a4b5ee8c7196d5506e1f5150c9bbc55e5453d33aa96fbfa759967ae9ee735e"
 metafile = true
 
 [[files]]
@@ -74,17 +74,12 @@ metafile = true
 
 [[files]]
 file = "mods/simple-hud-enhanced.pw.toml"
-hash = "c69c87e368f78df96907806a9ae99e98c79eab85d38d47114de02693c4c3821f"
-metafile = true
-
-[[files]]
-file = "mods/smoothmenu-refabricated.pw.toml"
-hash = "a522418ba699f68e0d84dc75a4e6c14ccf6bf247f59a8f3f584c05b2598423a3"
+hash = "e105bda72e0c5562c6f5cd02c7afd5940420ef0d30765ed3925edff9c95b9b1e"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "a42373ac95844aba0e2a5228b004cfd0dbab75d2e2c9252fb178252b5e4c433a"
+hash = "09d2dbee70e91e8859e6f62e4181a80264d6dd24cc686fbedb93dda9f69fdfe6"
 metafile = true
 
 [[files]]
