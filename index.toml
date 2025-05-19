@@ -18,6 +18,11 @@ hash = "417e4f42790407e6fb4dfcb03cd4abcdf3aa00f4dcef3f3a2edec1a3e1a9a3ef"
 metafile = true
 
 [[files]]
+file = "mods/bobby.pw.toml"
+hash = "8e5c01abf866b5f75c57282bb1780955160d3ffc7d5cd56053f2f2e5c8c73eeb"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "a63069aac3fc618562c8f4fa4f76e0bd3625a90f53d1dc3ff4974862d54dde20"
 metafile = true
@@ -60,11 +65,6 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "88c6edc1712f4f0cd915cd723b9e0296924d454b3855a719d2962103b2b92bea"
-metafile = true
-
-[[files]]
-file = "mods/moonrise-opt.pw.toml"
-hash = "f4a4b5ee8c7196d5506e1f5150c9bbc55e5453d33aa96fbfa759967ae9ee735e"
 metafile = true
 
 [[files]]
